@@ -1,5 +1,4 @@
 # Administrador de Tareas
-Este es el cascaron de mis aplicaciones que usen webpack
 
 NOTAS:
 Recuerden reconstruir los modulos de Node
